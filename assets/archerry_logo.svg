@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="layer" data-name="layer" viewBox="0 0 200 200">
+  <defs>
+    <style>.darkpink{fill:#c51a4a;}.white{fill:#fff;}.green{fill:#6cc04a;}</style>
+  </defs>
+  <title>archerry_logo</title>
+
+  <circle class="darkpink" cx="100" cy="100" r="80"/>
+  <circle class="white" cx="100" cy="100" r="50"/>
+  <circle class="darkpink" cx="100" cy="100" r="20"/>
+
+  <path class="green" transform="translate(100, 100) scale(1.2)"
+    d="M 0 0
+       m 3 3
+       a 4 4 90 0 1 -6 -6
+       l 48 -48
+       v -12
+       a 4 4 90 0 1 8 0
+       v 4
+       l 4 -4
+       v -12
+       a 4 4 90 0 1 8 0
+       v 4
+       l 6 -6
+       a 4 4 90 0 1 6 6
+       l -6 6
+       h 4
+       a 4 4 90 0 1 0 8
+       h -12
+       l -4 4
+       h 4
+       a 4 4 90 0 1 0 8
+       h -12
+       z"/>
+</svg>
